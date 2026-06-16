@@ -33,6 +33,13 @@ An original single-player voxel survival game in Godot 4.6 and C#. Deterministic
 world generation, layered biomes, living mobs, and an engine-free rules layer
 with hundreds of unit tests. Source available on request.
 
+## Education
+
+**Tallinn Polytechnic, Multimedia (MM-23).** Multimedia final exam *Slow Pour*,
+graded near 100%: a four-module web project built with Nunjucks, JavaScript, and
+CSS, deployed on GitHub Pages.
+[Live site](https://taan1el.github.io/Multimeedia_eksam/) · [source](https://github.com/Taan1el/Multimeedia_eksam)
+
 ## Tech stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,python,php,cs,html,css,tailwind,electron,git&theme=dark" alt="tech stack"/>
