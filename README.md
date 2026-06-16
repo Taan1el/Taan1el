@@ -62,7 +62,9 @@ CSS, deployed on GitHub Pages.
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,python,php,cs,html,css,tailwind,electron,git&theme=dark" alt="tech stack"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,python,php,cs,html,css,tailwind,electron,git&theme=dark" alt="tech stack"/>
+</div>
 
 TypeScript, Vue, Node, Python, and C# (Godot). Daily tools: Obsidian, VS Code,
 and the terminal.
