@@ -111,9 +111,9 @@ and the terminal.
 
 <!-- 3D isometric contribution calendar — regenerated daily by .github/workflows/3d-contrib.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-green.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-green.svg?v=2">
+  <img width="100%" src="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D contribution calendar"/>
 </picture>
 
 </div>
