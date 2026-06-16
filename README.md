@@ -3,7 +3,7 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Taan1el">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20·%20AI%20Agent%20Tinkerer&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=220&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20·%20AI%20Agent%20Tinkerer&descSize=18&descAlignY=60&descColor=c0caf5" alt="header"/>
 </a>
 
 <div align="center">
@@ -70,12 +70,12 @@ const taaniel = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b27" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27&langs_count=8" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b27" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&disable_animations=true&title_color=7aa2f7&bg_color=1a1b27&langs_count=8" alt="top langs"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&disable_animations=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
 
 </div>
 
