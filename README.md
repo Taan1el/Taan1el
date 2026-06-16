@@ -1,12 +1,22 @@
 <a href="https://github.com/Taan1el">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=c0caf5" alt="Taaniel Vananurm"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b4261,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=c0caf5">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:bb9af7,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=1a1b27&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=3b4261">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b4261,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=c0caf5" alt="Taaniel Vananurm"/>
+  </picture>
 </a>
 
 <div align="center">
 
 <a href="https://github.com/Taan1el"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Building+local-first+AI+tools;Full-stack%3A+TypeScript+%C2%B7+Vue+%C2%B7+Node;STRATA+%E2%80%94+voxel+survival+in+Godot+%26+C%23;Obsidian+workflows+%26+interactive+web+apps" alt="What I build" /></a>
 
-<a href="https://github.com/Taan1el"><img src="https://img.shields.io/badge/GitHub-Taan1el-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Taan1el">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-Taan1el-0d1117?style=flat-square&logo=github&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-Taan1el-ffffff?style=flat-square&logo=github&logoColor=3b4261&labelColor=ffffff&color=ffffff">
+    <img src="https://img.shields.io/badge/GitHub-Taan1el-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </picture>
+</a>
 <a href="https://taan1el.github.io/taaniel-portfolio-os/"><img src="https://img.shields.io/badge/Portfolio-Live_demo-7aa2f7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=Taan1el&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views"/>
 
@@ -61,12 +71,24 @@ and the terminal.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b27" alt="GitHub stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27&langs_count=8" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=2e7de5&icon_color=9854f1&bg_color=ffffff&text_color=343b58">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=0d1117" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=0d1117&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=default&hide_border=true&title_color=2e7de5&bg_color=ffffff&text_color=343b58&langs_count=8">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=0d1117&langs_count=8" alt="Top languages"/>
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Taan1el&theme=default&hide_border=true&background=ffffff&ring=2e7de5&fire=9854f1&currStreakLabel=2e7de5&dates=343b58&currStreakNum=343b58&sideNums=343b58&sideLabels=343b58&stroke=e1e2e7">
+  <img src="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Contribution streak"/>
+</picture>
 
 </div>
 
@@ -74,13 +96,25 @@ and the terminal.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7" alt="Contribution activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=react&hide_border=true&bg_color=ffffff&color=3b4261&line=2e7de5&point=343b58&area=true&area_color=2e7de5">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7" alt="Contribution activity graph"/>
+</picture>
 
 <!-- Animated contribution snake — regenerated daily by .github/workflows/snake.yml -->
-<img width="100%" src="https://raw.githubusercontent.com/Taan1el/Taan1el/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/output/github-contribution-grid-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Taan1el/Taan1el/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</picture>
 
 <!-- 3D isometric contribution calendar — regenerated daily by .github/workflows/3d-contrib.yml -->
-<img width="100%" src="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-green.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Taan1el/Taan1el/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+</picture>
 
 </div>
 
