@@ -33,6 +33,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Post-process SVG backgrounds to match GitHub dark mode
+        run: |
+          sed -i 's/fill="#00000f"/fill="#0d1117"/g' profile-3d-contrib/*.svg
+
       - name: Commit & push
         run: |
           git config --global user.name "github-actions[bot]"
