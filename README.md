@@ -2,8 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=c0caf5">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:bb9af7,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=1a1b27&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=3b4261">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=200&section=header&text=Taaniel%20Vananurm&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full-stack%20developer%20·%20local-first%20AI%20tools%20·%20web%20apps&descSize=17&descAlignY=62&descColor=c0caf5" alt="Taaniel Vananurm"/>
-  </picture>
+
 </a>
 
 <div align="center">
