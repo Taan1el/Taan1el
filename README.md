@@ -68,31 +68,6 @@ CSS, deployed on GitHub Pages.
 TypeScript, Vue, Node, Python, and C# (Godot). Daily tools: Obsidian, VS Code,
 and the terminal.
 
-## GitHub stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=2e7de5&icon_color=9854f1&bg_color=ffffff&text_color=343b58">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Taan1el&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=0d1117" alt="GitHub stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=0d1117&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=default&hide_border=true&title_color=2e7de5&bg_color=ffffff&text_color=343b58&langs_count=8">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taan1el&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=0d1117&langs_count=8" alt="Top languages"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Taan1el&theme=default&hide_border=true&background=ffffff&ring=2e7de5&fire=9854f1&currStreakLabel=2e7de5&dates=343b58&currStreakNum=343b58&sideNums=343b58&sideLabels=343b58&stroke=e1e2e7">
-  <img src="https://streak-stats.demolab.com?user=Taan1el&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Contribution streak"/>
-</picture>
-
-</div>
-
 ## Activity
 
 <div align="center">
