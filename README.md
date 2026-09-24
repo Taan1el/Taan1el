@@ -75,7 +75,6 @@ and the terminal.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=react&hide_border=true&bg_color=ffffff&color=3b4261&line=2e7de5&point=343b58&area=true&area_color=2e7de5">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taan1el&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7" alt="Contribution activity graph"/>
 </picture>
 
 <!-- Animated contribution snake — regenerated daily by .github/workflows/snake.yml -->
